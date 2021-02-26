@@ -1,3 +1,3 @@
 # Registeration-Form
 A Registeration Form with Validation 
-It is written in JavaScript
+which is written in JavaScript
